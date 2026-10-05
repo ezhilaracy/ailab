@@ -1,0 +1,4 @@
+Error: 'SyntaxError: missing colon'  -->  Predicted Category: Syntax Error 
+Error: 'TypeError: cannot add str and int'  -->  Predicted Category: Runtime Error 
+Error: 'Output is incorrect due to wrong loop condition'  -->  Predicted Category: Logical Error 
+Model Accuracy: 100.00%
